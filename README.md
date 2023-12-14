@@ -1,2 +1,3 @@
-# dri-cli-backend
-A simple backend service to handle cli input from user
+# cog-cli-backend
+
+The base function library for other application to nherit or call
