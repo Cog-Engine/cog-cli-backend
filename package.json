@@ -2,7 +2,8 @@
   "name": "cog-cli-backend",
   "version": "1.0.0",
   "description": "A node CLI tool for drivel game engine",
-  "main": "index.ts",
+  "main": "index.js",
+  "types": "index.ts",
   "scripts": {
     "build": "tsc index.ts"
   },
